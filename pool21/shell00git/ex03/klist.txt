@@ -1,0 +1,5 @@
+1Credentials cache: API:E3AF8C0D-5A29-4F76-8B2C-867D016B39BC
+        Principal: dmyesha@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug 10 17:19:47 2020  Aug 11 03:19:39 2020  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
